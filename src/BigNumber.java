@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class BigNumber implements Comparable<BigNumber> {
 	
-	ArrayList<Byte> digits;
+	ArrayList<Integer> digits;
 	
 	public BigNumber(int starting_value) {
 		
