@@ -5,7 +5,7 @@ public class BigNumber implements Comparable<BigNumber> {
 	ArrayList<Integer> digits;
 	
 	public BigNumber(int starting_value) {
-		
+		//gtyguy
 	}
 	
 	public void addBy(BigNumber num) {
